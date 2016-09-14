@@ -52,9 +52,10 @@ m[,"CD4"]
 
 
 source("http://bioconductor.org/biocLite.R")
+#biocLite("BiocUpgrade") # upgrading Bioconductor
 biocLite("flowCore")    # for handling of fcs files in R
 biocLite("ggplot2")     # for advanced data plotting
-biocLite("gplot")       # for heatmaps
+biocLite("gplots")       # for heatmaps
 biocLite("Rtsne")       # for calculating tSNE
 biocLite("RColorBrewer")        # additional color schemes
 biocLite("reshape2")    # reorganizing data
