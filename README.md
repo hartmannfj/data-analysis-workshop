@@ -6,3 +6,6 @@ Paper which introduces concepts of high dimensional data anlysis for a broad aud
 
 http://onlinelibrary.wiley.com/doi/10.1002/eji.201545774/full
 
+Free introductory R course (online)
+
+https://www.coursera.org/specializations/jhu-data-science
